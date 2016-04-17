@@ -3,4 +3,4 @@
 .gradle/
 .project
 .settings/
-build/classes/main/.gitignore
+build/**
